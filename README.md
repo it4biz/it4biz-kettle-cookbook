@@ -1,20 +1,21 @@
 IT4biz Kettle Cookbook
 ======================
 
-IT4biz Kettle Cookbook is based on the kettle cookbook original project avaiable on https://code.google.com/p/kettle-cookbook/
+IT4biz Kettle Cookbook is based on the kettle cookbook original project avaiable on the link https://code.google.com/p/kettle-cookbook/ <BR><BR>
 
-What is IT4biz Kettle cookbook? <BR>
+What is IT4biz Kettle cookbook? <BR><BR>
 
-Kettle-Cookbook is a auto-documentation tool for Kettle, a.k.a. Pentaho Data Integration.
+Kettle-Cookbook is a auto-documentation tool for Kettle, a.k.a. Pentaho Data Integration.<BR>
 
-Use:
-pdi-ce-5.2.0.0-209
-saxon-9.1.0.8.jar
-kettle-cookbook (revision 87)
+Use:<BR>
+pdi-ce-5.2.0.0-209<BR>
+saxon-9.1.0.8.jar<BR>
+kettle-cookbook (revision 87)<BR><BR>
 
-This version was tested by the IT4biz Dev Team.
+This version was tested by the IT4biz Dev Team.<BR><BR>
 
-Command line (Linux):
+Command line (Linux):<BR>
 sh kitchen.sh -file:/Users/caiomsouza/svn/pentaho.community.projects/kettle-cookbook/trunk/pdi/document-folder.kjb -param:"INPUT_DIR"=/Users/caiomsouza/git/Bitbucket/curso-etl-sp-nov14/etls_source/ -param:"OUTPUT_DIR"=/Users/caiomsouza/git/Bitbucket/curso-etl-sp-nov14/ -param:"SAXON"=./lib/saxon-9.1.0.8.jar
 
-Command line (Windows):
+<BR><BR>
+Command line (Windows):<BR>
