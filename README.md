@@ -15,7 +15,7 @@ kettle-cookbook (revision 87)<BR><BR>
 This version was tested by the IT4biz Dev Team.<BR><BR>
 
 Command line (Linux):<BR>
-sh kitchen.sh -file:/Users/caiomsouza/svn/pentaho.community.projects/kettle-cookbook/trunk/pdi/document-folder.kjb -param:"INPUT_DIR"=/Users/caiomsouza/git/Bitbucket/curso-etl-sp-nov14/etls_source/ -param:"OUTPUT_DIR"=/Users/caiomsouza/git/Bitbucket/curso-etl-sp-nov14/ -param:"SAXON"=./lib/saxon-9.1.0.8.jar
+sh kitchen.sh -file:/Users/caiomsouza/svn/pentaho.community.projects/kettle-cookbook/trunk/pdi/document-folder.kjb -param:"INPUT_DIR"=/Users/caiomsouza/git/Bitbucket/curso-etl-sp-nov14/etls_source/ -param:"OUTPUT_DIR"=/Users/caiomsouza/git/Bitbucket/curso-etl-sp-nov14/it4biz-kettle-cookbook/ -param:"SAXON"=./lib/saxon-9.1.0.8.jar
 
 <BR><BR>
 Command line (Windows):<BR>
