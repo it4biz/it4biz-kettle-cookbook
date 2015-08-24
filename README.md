@@ -1,6 +1,7 @@
 ##IT4biz Kettle Cookbook
 
 IT4biz Kettle Cookbook is based on the kettle cookbook original project avaiable on the link below: <BR> https://code.google.com/p/kettle-cookbook/ <BR>
+https://github.com/rpbouman/kettle-cookbook <BR>
 http://www.kjube.be/presentations/PCG10_RolandBouman.pdf <BR>
 
 ##What is IT4biz Kettle cookbook? <BR>
