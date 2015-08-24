@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/it4biz/it4biz-kettle-cookbook/master/scripts/l
 <BR><BR>
 ##Command line (Windows):<BR>
 
-´´´
+```
 
 echo "Executando job - Kettle Cookbook"
 
@@ -32,5 +32,5 @@ cd "C:\Users\jonathanmaia\Desktop\Pentaho\pdi-ce-5.4.0.1-130\data-integration"
 
 .\Kitchen.bat /file:C:\Users\jonathanmaia\Desktop\Pentaho\ETLs\it4biz-kettle-cookbook\pdi\document-folder.kjb "/param:INPUT_DIR=C:\Users\jonathanmaia\Desktop\Pentaho\ETLs" "/param:OUTPUT_DIR=C:\Users\jonathanmaia\Desktop\Pentaho\ETLs\docs\doc-it4biz-kettle-cookbook" "/param:SAXON=.\lib\saxon-9.1.0.8.jar" /level:Basic > C:\Users\jonathanmaia\Desktop\Pentaho\ETLs\logs\job_kettle-cookbook.log
 
+```
 
-´´´
